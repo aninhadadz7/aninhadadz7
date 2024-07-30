@@ -1,7 +1,14 @@
 ## oiiee 🌻
+      BOAS VINDAS AO MEU PERFIL 💚💚
+Meu nome é Ana Almeida
+✔️ Estou estudando na Alura
+✔️ Estou me desenvolvendo na linguagem JavaScript
+✔️ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+     VOCÊ PODE ENTRAR EM CONTATO COMIGO 📫
+000111950854XSP@al.educacao.sp.gov 📧
 
 <!--
-**aninhadadz7/aninhadadz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aninhadadz7/aninhadadz7** is a ✨ _special_ ✨ anarepository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
